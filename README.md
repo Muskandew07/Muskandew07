@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/c0/0c/50/c00c50b0b7e07615ba73d6c3c2863d7c.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Muskan Dewangan</h1>
 <h3 align="center">A passionate Frontend & Backend Developer from India</h3>
