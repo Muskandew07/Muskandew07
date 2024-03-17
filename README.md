@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAF_wV-dh48/G4055R1fZ-Wu67haCoa39w/view?utm_content=DAF_wV-dh48&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+[![MasterHead](https://www.canva.com/design/DAF_wV-dh48/bhtnDFY73agVNWCWOh7gCg/edit?utm_content=DAF_wV-dh48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Muskan Dewangan</h1>
 <h3 align="center">A passionate Frontend & Backend Developer from India</h3>
